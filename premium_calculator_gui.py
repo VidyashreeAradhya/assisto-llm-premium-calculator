@@ -1,7 +1,6 @@
 import tkinter as tk
 
 # Premium calculation logic
-# Replace this with your actual formula
 def calculate_premium_logic(age, sum_assured):
     if age < 18:
         premium = sum_assured * 0.03
