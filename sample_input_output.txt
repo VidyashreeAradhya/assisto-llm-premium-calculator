@@ -1,0 +1,9 @@
+Sample Input:
+
+Age: 30
+Location: Bangalore
+Coverage Amount: 500000
+
+Sample Output:
+
+Calculated Premium: 21000.0
